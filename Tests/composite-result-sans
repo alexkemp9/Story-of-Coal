@@ -1,0 +1,2 @@
+composite -gravity center -geometry '-300-50' nimbus_watermark-left.png  life-on-land.png tmp.png
+composite -gravity center -geometry '+300+25' nimbus_watermark-right.png          tmp.png tmp.png

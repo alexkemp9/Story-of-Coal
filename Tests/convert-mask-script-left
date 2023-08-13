@@ -1,0 +1,7 @@
+convert -size 660x80 xc:black -font Z003-MediumItalic -pointsize 72  \
+        -fill white -annotate +24+54 'Follow the Dance'              \
+        -fill white -annotate +26+56 'Follow the Dance'              \
+        -fill black -annotate +25+55 'Follow the Dance'              \
+        -background transparent                                      \
+        -rotate 180 -distort Arc '90 180' -rotate 300                \
+        -trim +repage z003_mask-left.jpg

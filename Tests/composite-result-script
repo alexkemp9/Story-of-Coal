@@ -1,0 +1,3 @@
+composite -gravity center -geometry '-300-50' z003_watermark-left.png  life-on-land.png tmp.png
+composite -gravity center -geometry '+350+60' z003_watermark-right.png          tmp.png tmp.png
+composite                 -geometry '-050+30' z003_watermark-bottom.png         tmp.png z003_result-script.jpg

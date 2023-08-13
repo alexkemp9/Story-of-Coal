@@ -1,0 +1,2 @@
+composite -compose CopyOpacity  z003_mask-left.jpg  z003_stamp-left.png \
+            z003_watermark-left.png

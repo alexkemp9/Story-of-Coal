@@ -1,0 +1,27 @@
+#! /bin/bash
+#
+# use IM6 to make a result test-file using the z003 script-style font
+# 1. convert-mask-script        => z003_mask.jpg       <<= create the mask  from scratch
+# 2. convert-stamp-script       => z003_stamp.png      <<= create the stamp from scratch
+# 3. composite-watermark-script => z003_watermark.png  <<= composite z003_mask.jpg over z003_stamp.png
+# 4. composite-result-script    => z003_result.jpg     <<= final result of composing z003_watermark.png over life-on-land.png
+
+if $PWD/convert-mask-script-left; then
+   if $PWD/convert-stamp-script-left; then
+      if $PWD/composite-watermark-script-left; then
+         if $PWD/convert-mask-script-right; then
+            if $PWD/convert-stamp-script-right; then
+               if $PWD/composite-watermark-script-right; then
+                  if $PWD/convert-mask-script-bottom; then
+                     if $PWD/convert-stamp-script-bottom; then
+                        if $PWD/composite-watermark-script-bottom; then
+                           $PWD/composite-result-script;
+                        fi
+                     fi
+                  fi
+               fi
+            fi
+         fi
+      fi
+   fi
+fi

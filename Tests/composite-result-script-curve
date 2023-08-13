@@ -1,0 +1,1 @@
+composite $PWD/z003_watermark-curve.png  $PWD/life-on-land-curve.png  $PWD/z003_result-curve.jpg

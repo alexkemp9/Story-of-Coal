@@ -1,0 +1,2 @@
+composite -compose CopyOpacity  $PWD/z003_mask.jpg  $PWD/z003_stamp.png \
+            $PWD/z003_watermark-curve.png

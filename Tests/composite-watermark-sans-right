@@ -1,0 +1,2 @@
+composite -compose CopyOpacity  nimbus_mask-right.jpg  nimbus_stamp-right.png \
+            nimbus_watermark-right.png

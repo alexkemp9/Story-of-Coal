@@ -1,0 +1,247 @@
+The Story of Coal
+
+This exploration will be more in the nature of skipping a stone across the surface of the lake rather than a deep dive.
+
+The story of coal begins with the appearance of life on Earth.
+
+The Earth + Moon Gemini-pair are reckoned as forming at 4½Ga (Ga == ‘gigaannum’ == “Billion Years Ago” == 1,000,000,000 years == 10⁹) (just 40m years after the formation of the proto-Earth itself) and, although life is thought to have begun at 4Ga, those were single-celled organisms living within a reducing atmosphere (reduction == gain of electrons; oxidation == loss of electrons) (notice how my talk is immediately of twinned-processes). Since the modern atmosphere is clearly oxidising & not reducing, a mechanism is needed to explain the switch. That mechanism is thought to be encapsulated by the pre-Cambrian fossil† record of shallow-water Stromatolites (still existing today, and created by cyanobacteria).
+†Note: all early fossils provoke the argument that “they may be non-biological”.
+
+The earliest undisputed life on earth at 3.0Ga is thought to be microbial mats of anaerobic† bacteria (causing a “Purple‡ Earth” due to the use of ‘Retinal’ to convert sunlight into energy rather than ‘Chlorophyll’, which latter gives rise to a “Green Earth”). Retinal is a fairly simple carbon-based molecule which plays a vital role in metabolising light-energy within both anaerobic bacteria and (although not directly connected) also in modern aerobic life. In the former it plays a role within the cell membrane in photosynthesis of light (it goes 13-cis-retinal in light & cycles back to all-trans-retinal in the dark). In the latter it is a crucial part of the Vitamin-A metabolic path (in which oxidation plays a part, and beta-carotene can feature, and thus carrots*) and is also crucial for the ability of mammalian eyes to detect light (it is 11-cis-retinal in the dark & goes all-trans-retinal when capturing a photon).
+†Aerobic == “oxygen-rich”
+†Anaerobic == A-Aerobic == “not aerobic”
+‡In Emin parlance, Purple is “the scorch-mark of Silver”, and the earliest students (including me) wore purple-tunics.
+*The carrot reference is to Churchill’s deception during WW2 in declaring that a famous night-fighter pilot had such a good kill-rate due to excellent eyesight helped by consumption of carrots, rather than to possession of early radar-detection equipment in his plane.
+
+The emergence at about 3Ga of cyanobacteria†, which use water as a reducing agent and produce oxygen as a byproduct, led to the Oxygen Holocaust at 2.4Ga as the atmosphere & oceans switched from anaerobic (no oxygen, reducing) to become aerobic (oxidising). Cyanobacteria are Blue-Green; marine cyanobacteria still exist in the modern age & are thought to be responsible for 20% of the oxygen in the Earth’s current atmosphere. That switch from anaerobic to aerobic caused an 80% loss of anaerobic life, and also led to the establishment in the Stratosphere of the Ozone Layer, which filters out the most damaging UV light. Without Ozone there can be zero modern life on land nor in the ocean top-surface. There was iron dissolved in all oceans at that time. Whilst the iron in the oceans was “ferrous oxide” it was soluble, but at the point of the Oxygen Holocaust it switched from ferrous to “ferric oxide”, which is insoluble, and thus banded iron oxide deposits (BIF: “Banded Iron Formations”) were made across all seabeds in the then-oceans (which allows the Oxygen Holocaust to be dated).
+†The evidence for oxygen-producing bacteria at 3Ga is almost entirely indirect rather than direct, yet is accepted as conclusive.
+
+The first paragraph above states that “life began at 4Ga”, but that is true only for the oceans. Water is essential for life, and the best that could be hoped for on land by a thin-membraned single-cell bacteria was a shallow rock pool, which then probably regularly dried out. Next was the issue of travel. Until the creation of spores, legs, wings or whatever, the best that bacteria could hope for was wind & waves. It therefore should offer little surprise that the fossil record suggests that all land was bare of life for 4 billion years apart from the odd, wind-blown specks of algal scum.
+
+So, at Earth’s beginning whilst very little life was happening on land & not a lot was happening in the seas, world-wide “Plate Tectonics” were beginning to ramp up & the weather continued to be rampant.
+
+Evidence exists at 3.2Ga for the beginning of Plate Tectonics; ‘Vaalbara’ & ‘Ur’ are both hypothesised as the 1ˢᵗ supercontinent, though without common agreement for either. By 2.5Ga Plate Subduction begins and that leads to basalt-remelting and thus to ‘Cratons’†, which are permanent structures at the heart of continental Plates. Seismic tomography (CT for the planet) (detailed investigation of seismic waves produced by earthquakes) has revealed, incidentally, remnants of Theia, but more directly common properties for cratons: the latter is usually >2Ga old, often >3Ga and a few at 4Ga (the oceans are just 180Ma). Non-cratonic lithosphere is typically 100km thick, but cratons have more than twice that depth. They are usually lighter than the mantle or surrounding rocks & thus are buoyant, and are also stronger than other rocks due to low moisture content & re-melting. A further fun-fact is that diamonds originate in the roots of cratons (which then incidentally reveal their craton age).
+†The name ‘Craton’ derives from the Greek word (κράτος kratos) for ‘Strength’; there are >50 named cratons.
+
+As far as weather is concerned, we today exist within an inter-glacial in the middle of the Quaternary glaciation. To try to put that into context, at 3.2Ga, when modern-style plate subduction is believed to have begun, the oceanic temperature has been estimated at upto 85°C (just 15° below boiling point). At 2.9Ga the sea surface was frozen for the first time.
+
+The situation described above is utterly transformed by the Cambrian explosion of life within the seas, an event which began at about 538Ma (Ma == ‘megaannum’ == “Million Years Ago” == 1,000,000 years == 10⁶). Before the Cambrian, early life on Earth is considered to be entirely single-celled, soft-bodied and living only within the seas; that means very few fossils (the early part Cambrian era is famous for the first abundance of fossils, although an abundance of animals appearing with hard chalk-shells may play a part in that). Now contrast the picture just painted with our modern age and indeed with yourself. We are the exact opposite of “single-celled”, and it therefore becomes clear that at some point between 3.0Ga & 538Ma living cells stopped being only unitary; some became cooperative families, whether as multicellular organizations such as cyanobacteria or slime molds (where it is a colony of identical cells), or as true complex multicellular organisms where each organism body contains a multitude of interconnected parts within the skin.
+
+I believe that the appearance of life, as briefly sketched in the previous paragraph, is actually more far-reaching & astonishing than most folks grasp. Consider the following:–
+
+1. 3.0Ga: 1ˢᵗ Appearance of an Animate Cell.
+
+   Stones only move if an external force affects them. A living cell moves if it decides to, and that fact is perfectly astonishing. The day when it occurred for the very first time must have rent the universe with wonder from top to bottom. Now something other than inanimate things existed & could observe the world. There was now more than just one thing in the world.
+
+2. 2.4Ga: Colonies of Bacteria form Cooperative Families.
+
+   The classic example is of cyanobacteria forming Stromatolites (colonies of identical cells glueing together sand-grains into circular pillars as homes). Together they changed an entire world from Purple to Green. Jaw-dropping. Twice. And a bit frightening (80% of original anaerobic life was annihilated).
+
+3. 2.2Ga: Anaerobic Archaea unite in Symbiosis with Aerobic Proteobacteria.
+
+   As we all live within a world that was created from the union of two early proto-planets it should not really be a surprise that early single-celled life goes & mimics that identical process amongst themselves, creating eukaryotes (cells with nuclei). I do love, however, the way that the Wiki calls the anaerobes “Asgard archaea”, since that seems to call to the story within the Book of Enoch of Angels taking wives from amongst the women of the Earth.
+
+   One example of the end-result of this symbiosis is Mitochondria, and it is worth pointing out that:–
+     i) mitochondria have their own unique DNA
+    ii) …which DNA comes from the female line only
+   iii) sexual reproduction is estimated to date from 2.0Ga.
+
+   The nucleus of Eukaryotes contains all the cell DNA, with the notable exception of some mitochondria, which retain at least some unique genes locally.
+
+4. The symbiotes from (3) then go on to live within animals, fungi & plants.
+
+   That process is called ‘endosymbiosis’. One brilliant sentence quoted in the Wiki is: “Life did not take over the globe by combat, but by networking” (by cooperation). We will meet this again with both trees & mammals. However, it did not stop there.
+
+5. 1.6Ga The symbiotes from (3) can then undergo another merger, eg with cyanobacteria to create Chloroplasts.
+
+   This is yet another endosymbiotic structure, and one that lives within all plants & algea; it is the core feature that allows them to photosynthesise sunlight by means of Chlorophyll. This mechanism of ‘symbiogenesis’ was first suggested in the 19ᵗʰ Century and was finally substantiated with microbiological evidence in 1967.
+
+   Symbiogenesis: here is one framework for this whole astonishing dance:–
+   a) An anaerobic archae† develops a nucleus, becoming an eukaryotic cell‡
+      †Archae are single-cell life that originated during the Archean Eon. They lack cell nuclei and have one single membrane enclosing the whole cell. This structure causes them to be termed ‘Prokaryotes’.
+      ‡A cell nucleus is home to the cell DNA, the location for the cell genome (genes) & the centre from which cell mitosis will occur.
+   b) An aerobic proteobacteria† is engulfed by an anaerobic eukaryotic cell
+      †Proteobacteria are prokaryotes; the significant feature is that these bacteria are aerobic
+   c) Rather than being consumed, the two become symbiotes; specifically, the bacteria becomes endosymbiont*
+      (in an era when the increasing oxygen in the atmosphere is poisonous for the Archae, the ability of the Proteobacteria to feed on oxygen & supply energy to the cell is a positive benefit)
+   d) The endosymbiont* bacteria becomes an organelle†
+      *‘Endosymbiont’ represents “an entire organism living inside another organism”. That is, to point to an important example, exactly how every mammal digests it’s food. Whilst recent estimates vary wildly, the human gut microbiome of bacteria, archaea and eukarya is reckoned to contain both more cells than the human host & a vastly more diverse genome. In every way, we are actually more bug than human**.
+      **Oh, OK, it's probably an overstatement. But, the fact is that we, like *every* mammal, are host to a huge range of other endosymbiont life, both within & upon our skin (see “Demodex folliculorum”), is undeniable. I believe that a perfectly reasonable statement is that almost no human has ever managed to grasp the full range of what ‘being human’ actually means.
+      †The movement from ‘Endosymbiont’ to ‘Organelle’ is achieved by a transfer of most of the symbiont genes to the host cell genome (and thus to the nucleus, meaning a closer marriage).
+   e) The sequence of (a) + (b) is now reckoned always to have happened sequentially within the same moment where Mitochondria are concerned, and the sequence of (b), (c) + (d) is reckoned to have re-occurred many times (including acquiring multi-endosymbionts, with an example here at (5) with the creation of Chloroplasts).
+
+Whilst life is becoming complex, supercontinents are forming then breaking up in a cycle (or are they?).
+
+   It goes like this (disputed, naturally):–
+     I)   4Ga: (unknown, but diamond ages suggest this)
+    II)  >3Ga: (possibly) Vaalbara and/or UR
+   III)  >2Ga: (possibly) Kenorland
+    IV) 1.8Ga: Columbia / Nuna forms
+     V)  ~1Ga: Rodinia forms
+    VI) 0.6Ga: Gondwana forms (Pannotia not fully accepted) (some think just one super-continent until this time (Ediacaran))
+   VII) 0.3Ga: Pangea
+
+   Pangea is accepted as the most recent super-continent, but argument over all earlier super-continents continues.
+
+   There is a climate consideration about Pangea (and by reflection, *all* super-continents): it was a desert in the centre, and life could only have existed at the margins. The classic modern example to demonstrate this is Australia.
+
+The Ediacaran Period ended at 541Ma and the Cambrian Period began. Land above sea-level at that time was dry & lifeless apart perhaps from some microbial soil crust. A little biofilm on land is unlikely to ever produce any coal, and that means that the astonishing 162m-thick 800Ma Gondwana coal seams in India can only ever have originated within a life-rich sea. Even the beginning of the Cambrian at 538Ma is linked with the 1ˢᵗ appearance of the trace fossil Treptichnus pedum (the animal itself was soft-bodied & left no fossil, but it burrowed immediately below the soil surface & those burrows left a fossilised trace of it’s existence). There are a good number of trace fossils on/in land during the Cambrian. And that was that for life on or in the land throughout the Cambrian.
+
+The Cambrian Period ended at 485Ma and the Ordovician Period began. The first ever appearance of land-plants occurred at the middle of this period at about 466Ma with plants that could produce spores (the plants themselves were too soft to produce fossils, but the spores had shells hard enough to both resist dessication during life and then across the aeons to fossilise & be discovered in our time). A million years before this appearance (and there is some argument as to whether the two are connected) were extensive bombardments by Chondrite meteorites. The southern continents were gathered together in the super-continent “Gondwana”, and it was positioned over the South Pole (that fact is soon to become important). The final event of the entire period was the world’s first mass extinction event (the 2ⁿᵈ largest of all 5, as long as the Oxygen Holocaust at 2.4Ga is ignored). The Ordovician began with intense greenhouse conditions causing hot weather and sea-surface conditions. The Earth began to cool & became temperate at the middle Ordovician, and glaciers & ice-caps on land appeared in the late Ordovician. Indeed, that time is considered to be the coldest ice-age in the last 600 million years of Earth’s history. It is considered that the expansion of terrestrial plants is largely responsible for this ice-age (presumably due to their removal of CO²) and thus for the first pulse of the extinction, whilst the second phase that immediately followed was worldwide anoxic (low oxygen) conditions + toxic sulfide production. These extinction events were at 444Ma & mark the end of the Ordovician Period & the beginning of the Silurian Period.
+
+The Silurian Period began at 444Ma and ran until 419Ma when the Devonian Period began, itself ending at the beginning of the Carboniferous Period at 359Ma. The Silurian saw the first fossil records of vascular plants on land (the name comes from the latin word for ‘duct’). These were the first life that became independent of needing a film of water across all cells. The material that the ducts were constructed from is called ‘xylem’, and that name is derived from the greek word for wood. And so, finally, one of the most important plant-building material appears within this story of life, because xlem is constructed from Lignin (that name is derived from the latin word for wood - are you spotting a theme here?).
+
+The ducts within vascular plants allow transport of water & nutrients throughout the plant. Lignin is a complex organic polymer that is durable, structural & hydrophobic, which latter helps the plant to both transport water & resist drying out. Lignin also appears within red algae, suggesting a common ancestor for both red algae & vascular plants. Lignin has become in our time the 2ⁿᵈ most common organic polymer on the planet (the 1ˢᵗ is cellulose) (lignin composes 30% of current non-fossil organic carbon, and 20 to 35% of the dry mass of wood). It is the component within newspaper that causes it to turn yellow as it ages, and the self-same component needs to be extracted from wood-pulp in order to manufacture fine-paper (used to print quality books).
+
+Chemically, Lignin is a polymer made by cross-linking phenolic precursors. These precursors are termed ‘monolignols’ (alcohols), and there are 3 main ones which get termed ‘H’, ‘G’ & ‘S’. Now, even if I knew Lignin chemistry deeply (which I do not) I would not try to specify it for you, since it has a high level of diversity, a molecular mass in excess of 10,000 (for comparison, methane == CH⁴ == mole 16.043), and few have the time for that. What is important at this level of exploration is to realise that Lignin character/nature derives from (1): the balance of the precursors used, and (2): the degree of interlinking. To keep it simple (KISS) the main precursors are S+G; gymnosperms (softwoods, grasses) are mostly G, angiosperms (hardwoods) are both G & S, whilst palms are mostly S.
+
+It almost seems that Nature was experimenting across the period of the Silurian + Devonian with differing Lignin chemistry until it got a balance that it liked. At the beginning the ducts were not very strong and the plants were in consequence not very high. Land vegetation within the fossil record remained only a few centimetres high at the beginning of the Devonian. A 400Ma fossil of a plant with woody tissue was reported in 2019. Wood is one key to height for plants but there are others. The development of roots, stems & leaves are found in the Devonian and, by Middle Devonian, actual trees had appeared and thus the 1ˢᵗ forests.
+
+The complex of things required to support a forest is large and — in my observation — little spoken of, but let's try to enumerate some of it:–
+
+   Soil 1: This is merely the first in a long list of miracles. It may take hundreds, thousands, or even billions of years to produce. It occurs by the action of wind, wave, stream, ice and/or rock upon rocks (plants also create their own soil), and one of the key features is the mean diameter of the eventual grains. Here are classifications for the same mineral ground down to different diameters:–
+      stones: > 2.000mm
+        sand:   0.050mm - 2.000mm
+        silt:   0.002mm - 0.050mm
+        clay: < 0.002mm
+   Soil 2: The physical & even chemical properties can depend upon the soil grain size. In the case of clay, it will even depend on whether the clay retains a marine environment, or whether the salt has been washed out. One key feature to understand is that the surface area of clay is huge when compared to other grain sizes. That means — as just one example — that it will hold large volumes of water and dry-out slowly.
+   Soil 3: It would be a mistake to concentrate only upon physical aspects. The house is obviously important, but so is the life that occurs within it. I think that the best example here is that it is very clear that one prime reason for the success of modern mammals lies in their dung (“what’s brown & sounds like a bell?”), in that soil needs a steady supply of dung to feed the microscopic life that enable plants to exchange both nutrients & moisture, and also that the same (or similar) microscopic life is required by those mammals to be able to digest their food, which itself is supplied directly or indirectly by the plants. Try to get the point here that there is a vast cooperation between multiple lifeforms, both below & above the soil surface, and it is hardly surprising that it took billions of years to put it all in place.
+   Soil Addendum: To try to underline the last phrase in the last sentence above, understand that both Mammoths & Elephants possibly had/have an inferior microbiome compared to cows. That is suggested in the way that elephants are barely able to digest the vast weights of leaves that they eat (they need to eat a lot because they get so little out of each mouthful). That then further suggests that both mammals & bugs have had upgrades that are complementary and connected. Last, that must surely also apply to the interaction between plants & bugs, but were they always perfectly in step? Lignin can be remarkably durable. As the planet evolved a version of Lignin in the Late Devonian that could endure and was stable enough to support tall trees, had the planet also evolved the life that could eat it when it died? 330m thick coal seams in Australia suggest that the answer is “not until later”.
+
+We can now begin to see a clear pattern from the Cambrian through to the Carboniferous of occupation of the land by life (cheat sheet: terrestrial plants are exceeding flat at the start & gradually get taller):–
+
+   Ⅰ. Pre-Cambrian
+   Ⅱ. 541Ma Cambrian (“An Explosion of Life Within the Seas”)
+                           : at best, some microbial soil crust at the land margins
+   Ⅲ. 485Ma Ordovician
+                           : arthropods (invertebrates such as millipedes, spiders & insects) begin to spread to the land
+   Ⅳ. 444Ma Silurian
+                           : mostly moss forests, and bacterial and algal mats
+   Ⅴ. 419Ma Devonian (“Age of Fishes”)
+      419Ma  Early Devonian: vascular plants spread across the dry land, joined by fungal growth
+                           : plants spread via spores
+                           : most of the vegetation was like a low carpet
+                           : a few very tall (8 meters, 26 ft) life is conjectured as a fungal body
+                           : stable soils develop around primitive rooted plants
+      400Ma                : wood-bearing plant fossil
+      393Ma Middle Devonian: plant roots & leaves develop
+                           : primitive land plants form forests which now are at shrub-height
+      382Ma   Late Devonian: seed-bearing plants
+                           : 1ˢᵗ forests, with trees upto 9m tall (eg Cladoxylopsida + Eospermatopteris)
+                           : tetrapods (four-limbed vertebrates) begin to adapt to the land
+                           : arthropods now established on land
+      375Ma                : Devonian marine extinction (4ᵗʰ largest of all 5) (carbon sequestration again is fingered as the reason)
+     (359Ma Carboniferous)
+
+Porous reef rocks from the Devonian Epoch (419-359Ma) were perfect for holding the oil preserved by anoxic (low oxygen) oceans at the end of that age. The next age was the Carboniferous Epoch (359-299Ma), which was the principal coal-creation era in the modern (Phanerozoic) timespan.
+
+Australia | https://www.ga.gov.au/education/classroom-resources/minerals-energy/australian-energy-facts/coal | black coal: Permian to Jurassic (299 to 145 million years); Brown coal: Paleogene age (66 to 23 million years old) | Gippsland Basin, Victoria: seams can be up to 330m thick. Many brown coal beds lie close to the surface and can be hundreds of metres thick
+Singrauli India | https://en.wikipedia.org/wiki/Singrauli_Coalfield | (Gondwana) 800m years | 130–162 m thick
+Jhingurda, India | https://studybuff.com/what-is-the-thickest-coal-seam/ | (Gondwana) 800m years | 132m thick
+Alpu, Turkey | https://link.springer.com/article/10.1007/s40789-020-00397-y | carboniferous and tertiary | 10 to 30m for seam-A
+Green river, Wyoming | https://studybuff.com/what-is-the-thickest-coal-seam/ | no-age | eighty feet thick (info comes from 1897 newspaper); 24m; late cretaceous to early tertiary; https://pubs.usgs.gov/ds/683/contents/Plates/Plate3_CoalFields.pdf
+Heidaigou Mine, Ordos Basin, Inner Mongolia | https://www.mdpi.com/2071-1050/14/10/6297 | 293Ma (Early Permian) | 20m for No.6 seam
+Warwickshire Thick | https://www.ourwarwickshire.org.uk/content/article/warwickshire-thick-coal | 300m years | 8m thick
+Pittsburgh | https://en.wikipedia.org/wiki/Pittsburgh_coal_seam | 300m years | averages about 8 feet ... as much as 22 feet (6.7m)
+Georges Creek, Maryland | https://studybuff.com/what-is-the-thickest-coal-seam/ | Early to Late Pennsylvanian in age. Early Permian | 14-foot (4.3 m)
+South Staffordshire | https://en.wikipedia.org/wiki/South_Staffordshire_coalfield | Carboniferous | possibly 8 feet (is a name of a seam); 2.4m
+Burnley, England | http://www.nmrs.org.uk/assets/pdf/BM63/BM63-5-27-burnley.pdf | Lower Coal Measures | Most seams seldom exceeded 1.5 metres thickness; (sometimes) the thickness was only 0.5 metre
+South Yorkshire | https://en.wikipedia.org/wiki/Coal_seams_of_the_South_Yorkshire_Coalfield | 300m years | 1.2 km total thickness | (individual seams not given as varies)
+
+Tectonic Plates
+https://en.wikipedia.org/wiki/Theia_(planet)
+https://en.wikipedia.org/wiki/Craton
+https://en.wikipedia.org/wiki/Ur_(continent)
+https://en.wikipedia.org/wiki/Vaalbara
+https://en.wikipedia.org/wiki/Purple_Earth_hypothesis
+https://en.wikipedia.org/wiki/Cyanobacteria
+https://en.wikipedia.org/wiki/Snowball_Earth
+https://en.wikipedia.org/wiki/Columbia_(supercontinent)
+https://en.wikipedia.org/wiki/Huronian_glaciation
+https://en.wikipedia.org/wiki/Great_Oxidation_Event
+https://en.wikipedia.org/wiki/Timeline_of_plant_evolution
+https://en.wikipedia.org/wiki/Evolution_of_sexual_reproduction#Origin_of_sexual_reproduction
+https://en.wikipedia.org/wiki/Evolution_of_fungi
+https://en.wikipedia.org/wiki/Evolutionary_history_of_plants
+https://en.wikipedia.org/wiki/Lignin
+https://en.wikipedia.org/wiki/Symbiogenesis
+https://en.wikipedia.org/wiki/Rodinia
+https://www.britannica.com/place/Gondwana-supercontinent
+https://en.wikipedia.org/wiki/Stromatolite
+https://en.wikipedia.org/wiki/Phanerozoic
+https://en.wikipedia.org/wiki/Late_Devonian_extinction
+https://en.wikipedia.org/wiki/Extinction_event
+https://en.wikipedia.org/wiki/Capitanian_mass_extinction_event
+https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event
+https://en.wikipedia.org/wiki/Triassic%E2%80%93Jurassic_extinction_event
+https://en.wikipedia.org/wiki/Cretaceous%E2%80%93Paleogene_extinction_event
+
+Gondwana (a region of central India) is the name given to the southern region of the super-continent of Pangea by Austrian geologist Eduard Suess
+Alfred Wegener, a German meteorologist, in 1912 conceived of Pangea
+Alexander Du Toit, a South African geologist, in his 1937 book "Our Wandering Continents" documented geologic and paleontological lines of evidence that linked the southern continents.
+
+Timeline of Terran Changes
+
+4.54Ga | Hadean Eon | Earth formed; 40m years later is the date suggested for collision between early Earth (Hyperion?) & Theia; thus origination of Earth’s ‘Gemini’ nature, the Moon, and possibly also water (although the crust did not solidify until 100m years after formation)
+4.0-3.8Ga | Archean Eon | Late Heavy Bombardment (LHB) likely stripped away any early atmosphere and/or oceans
+3.5Ga | Archean Eon | earliest oxygen; photosynthesis begins?
+3.2Ga | Archean Eon | Plate tectonics begins; Vaalbara supercontinent hypothesised
+3.1Ga | Archean Eon | Ur as the proto-supercontinent hypothesised
+3.0Ga | Archean Eon | earliest undisputed fossils (single-celled life)
+2.9Ga | Archean Eon | Pongola glaciation
+2.5Ga | Proterozoic Eon | Plate subduction becomes active (and thus the formation of ‘cratons’ due to basalt remelting); oxygen begins to appear within atmosphere
+2.5Ga | Proterozoic Eon | Huronian glaciation; reached a “Snowball Earth” & together with Oxygen Holocaust (see next) caused extinction of anaerobic microbial mats; the Earth thus changed from Purple to Blue-Green (from retinal to cyanobacteria)
+2.4Ga | Proterozoic Eon | Oxygen Holocaust (1ˢᵗ mass extinction — 80% loss — though these are classicly restricted to Phanerozoic eon): previous eons were anaerobic, but cyanobacteria (blue-green) photosynthesis produced O²; banded iron oxide deposits (ferrous iron is soluble but ferric iron is not); mitochondria hypothesised to date from this era as symbiosis between surviving archaea & aerobic bacteria which then went endosymbiont.
+2.0Ga | Proterozoic Eon | 1ˢᵗ appearance of sexual reproduction
+1.8Ga | Proterozoic Eon | Columbia / Nuna supercontinent forms
+1.7Ga | Proterozoic Eon | 1ˢᵗ appearance of multi-cellular life
+1.5Ga | Proterozoic Eon | Columbia / Nuna supercontinent breakup
+1.5Ga | Proterozoic Eon | 1ˢᵗ appearance of fungi
+1.26Ga to 900Ma | Proterozoic Eon | Rodinia-supercontinent began to assemble
+1Ga to 542Ma | Gondwana-supercontinent began to assemble | (modern) South America, Africa, Arabia, Madagascar, India, Australia, and Antarctica
+720-635Ma | Proterozoic Eon | Cryogenian (Snowball Earth)
+750Ma to 633Ma | Proterozoic Eon | Rodinia began to breakup
+633Ma-573Ma | Proterozoic Eon| Pannotia (not fully accepted as a super-continent) (centered around the south pole, modern-day Africa was at it’s center)
+600Ma | Proterozoic Eon | Gondwana fully assembled
+635Ma to 538Ma | Proterozoic Eon (Ediacaran) | Multi-cell fauna began to appear for the first time; very few fossils exist
+538Ma | Phanerozoic Eon (Cambrian) | Beginning of the modern ages with an explosion of life within the seas & multiple fossils for the very first time
+485-420Ma | Phanerozoic Eon (Ordovician) | Andean glaciation
+443Ma | Phanerozoic Eon (Ordovician) | Ordovician extinction (#1 of 5 major extinction events; it is the 2ⁿᵈ largest of all 5); came in 2 pulses: the first was due to a rapid switch from greenhouse to icehouse conditions during the Andean/Hirnantian glaciation and affected life in Gondwana; the second is immediately after the end of the glaciation due to worldwide anoxic (low oxygen) conditions + toxic sulfide production.
+444Ma-419Ma | Phanerozoic Eon (Silurian)
+419Ma | Phanerozoic Eon (Devonian) | Fungal life common (and uncontroversial) on land; extensive colonisation of land by plants, leading to worldwide changes (including climate change) due to erosion & sedimentation
+400Ma | Phanerozoic Eon (Devonian) | Laurentian craton (USA) + Baltica craton + micro-continents form Euramerica
+372Ma | Phanerozoic Eon (Devonian) | Devonian extinction (#2 of 5 major extinction events; it is the 4ᵗʰ largest of all 5)
+360-255Ma | Phanerozoic Eon (Devonian) | Karoo Ice Age
+299Ma | Phanerozoic Eon (early Permian) | Pangea-supercontinent fully asembled as Gondwana + Euramerica + Angaran craton of Siberia combine (Cathaysia - N&S China) lay close to the east & together with other micro-continents later welded to the east margin of Pangea
+273Ma | Phanerozoic Eon (early/mid-Permian) | Olson’s Extinction (#3c of 5 major extinction events) (this was originally called “Olson’s Gap”; careful reviews confirmed it as an extinction event, but no accepted theory for the cause exists to date).
+260Ma | Phanerozoic Eon (mid-Permian) | Capitanian extinction (#3b of 5 major extinction events) (originally this got lumped in with the Great Dying; it is the 5ᵗʰ largest of all 5): Emeishan volcanism caused an increase in atmospheric carbon dioxide that was both one of the largest and one of the most precipitous in the entire geological history of the Earth (for context, the end-Permian extinction involved CO² releases that rose 5x faster); the volcanism also released high doses of toxic mercury.
+252Ma | Phanerozoic Eon (Permian/Triassic boundary) | end-Permian extinction (#3a of 5 major extinction events) (the Great Dying; it is the largest of all 5, killing off ~80% of all species): flood basalt volcanic eruptions created the Siberian Traps, releasing huge amounts of carbon dioxide, elevating global temperatures and acidifying the oceans; in addition were catastrophic release of methane (from clathrates & other sources), destruction of the ozone layer and increase in harmful solar radiation
+201Ma | Phanerozoic Eon (Triassic/Jurassic boundary) | end-Triassic extinction (#4 of 5 major extinction events; it is the 3ʳᵈ largest of all 5): flood basalt eruptions in the Central Atlantic Magmatic Province (CAMP) induced profound global warming + ocean acidification; caused dinosaurs to become dominant land-animal in Jurassic
+180Ma | Phanerozoic Eon (Early Jurassic) | Gondwana began to breakup, forming central Atlantic Ocean (Africa/N.America) + Indian Ocean between Africa and Antarctica
+140Ma | Phanerozoic Eon | South Atlantic ocean + Indian Ocean opened up + India separated from Antarctica and Australia
+80Ma | Phanerozoic Eon | N.America & Europe separated + Australia & Antarctica separated + India & Madagascar separated
+66Ma | Phanerozoic Eon (K-T event) | Cretaceous–Paleogene extinction (#5 of 5 major extinction events; it is the 2ⁿᵈ largest of all 5)): sudden mass extinction of 75% or more of all species on Earth, including famously all non-avian dinosaurs & large tetrapods; in their place emerged horses, whales, bats, primates & modern birds; fungal life exploded.
+50Ma | Phanerozoic Eon | India collided with Eurasia (Himalaya mountains) & Australia collided with Southeast Asia
+2.58Ma | Phanerozoic Eon | Quaternary glaciation
+15Ka | Phanerozoic Eon | end of last glaciation; Holocene interglacial begins
+FEF700
+F2F1CD
+https://energyeducation.ca/encyclopedia/Coal_seam
+Formation
+Coal seams are formed from dead and decaying organic matter. Generally, this matter came from ancient peat bogs that died and fell into shallow, stagnant waters. As this material decayed, it became peat over time. As this peat was buried under sediment, the temperature increased and the pressure became greater. This compression and heating slowly turned the soft peat into harder lignite coal. With further burial and compression this brown lignite coal became sub-bituminous coal, then bituminous coal, and finally anthracite coal.[4] Regardless of the size or placement of the coal seam this formation pattern remains the same.
+The size, location, and accessibility of coal seams can vary widely. Due to extreme pressures involved in the compression of the peat in the formation of coal, about 10 meters of peat will only form around 1 meter of coal. However, the thickness of the coal bands can vary significantly depending on the amount of peat that was initially buried. Coal seams have been found that are as small as 30 centimeters (or approximately a foot) all the way up to more than 30 meters wide.[2] Additionally, these seams can be buried either very deeply or fairly close to the surface. Most of the time the deeply buried seams are mined using deep mining techniques whereas ones close to the surface are obtained through strip mining.
+
+https://core.ac.uk/download/pdf/53187803.pdf
+In India, coal seams of 4.8m thickness or higher are called thick
+
+https://www.tandfonline.com/doi/full/10.1080/19475705.2022.2161952
+In China: divided into thin coal seam (<1.3 m), medium thick coal seam (1.3–3.5 m), thick coal seam (3.5–8 m), and extremely thick coal seam (>8 m)
+
+https://www.osti.gov/biblio/7320617
+Bituminous coal and lignite seams (mined in 1945) of the United States and Alaska range from less than 2 feet in thickness to more than 50 feet, but the majority of the Nation’s coal mines produce from seams 3 to 6 feet thick and the average of the country is 65 inches.
+
+https://www.sciencedirect.com/science/article/abs/pii/S2095268615001494
+The adopted limit to call a coal seam thick in India is 4.8 m, which is on higher side of the range. Even after adoption of this higher limit, over 60% of the total coal reserve in the country belongs to thick seams. It is difficult to find any regular pattern of the coal seam thickness due to diverse depositional conditions of different coalfields. Some of the thick seams are nearly 30 m thick, while one exceptionally thick coal seam in Singrauli coalfield is 162 m thick.
+
+http://www.nmrs.org.uk/assets/pdf/BM63/BM63-5-27-burnley.pdf
+Regrettably the thin seams were a strong inducement to use child labour until the Act of 1842 prohibited the employment of children below the age of 10 in underground workings. Previously children of both sex were employed as ‘drawers’ or ‘pushers’ for hauling coal throughout the workings to the pit bottom. …  Thus  for a weekly wage of four shillings (20 pence) a seven year old boy, working eight hour shifts, pushed tubs of coal along one metre high roadways for distances of 135-180 metres in the Shell Coal at Vicarage Colliery (SD873334). Conditions were even worse at Burnt Hills Colliery (SD828286) where roadways in the Lower Mountain Coal were only 0.76 metre high.

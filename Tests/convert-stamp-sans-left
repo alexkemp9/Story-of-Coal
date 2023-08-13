@@ -1,0 +1,6 @@
+convert -size 660x80 xc:transparent -font NimbusSans-Italic -pointsize 60 \
+        -fill black       -annotate +24+64 'Nimbus Sans Italic'           \
+        -fill white       -annotate +26+66 'Nimbus Sans Italic'           \
+        -fill transparent -annotate +25+65 'Nimbus Sans Italic'           \
+        -rotate 180 -distort Arc '90 180' -rotate 300                     \
+        -trim +repage nimbus_stamp-left.png

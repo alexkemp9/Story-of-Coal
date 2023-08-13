@@ -1,0 +1,6 @@
+convert -size 660x80 xc:transparent -font Z003-MediumItalic -pointsize 72 \
+        -fill black       -annotate +24+54 'Follow the Dance'             \
+        -fill white       -annotate +26+56 'Follow the Dance'             \
+        -fill transparent -annotate +25+55 'Follow the Dance'             \
+        -rotate 180 -distort Arc '90 180' -rotate 300                     \
+        -trim +repage z003_stamp-left.png

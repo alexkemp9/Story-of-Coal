@@ -1,0 +1,1 @@
+composite $PWD/z003_watermark.png  $PWD/life-on-land.png  $PWD/z003_result.jpg

@@ -1,0 +1,7 @@
+convert -size 660x80 xc:black -font Z003-MediumItalic -pointsize 72  \
+        -fill white -annotate +24+54 'of Life on Land'               \
+        -fill white -annotate +26+56 'of Life on Land'               \
+        -fill black -annotate +25+55 'of Life on Land'               \
+        -background transparent                                      \
+        -rotate 180 -distort Arc '90 180' -rotate 45                 \
+        -trim +repage z003_mask-right.jpg

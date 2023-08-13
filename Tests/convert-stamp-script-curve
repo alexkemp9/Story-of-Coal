@@ -1,0 +1,12 @@
+convert -size 1280x430 xc:transparent -font Z003-MediumItalic -pointsize 72 \
+        \( -gravity northwest -fill black        -annotate +24+24 'Follow the Dance'           \)         \
+        \( -gravity northwest -fill white        -annotate +26+26 'Follow the Dance'           \)         \
+        \( -gravity northwest -fill transparent  -annotate +25+25 'Follow the Dance'           \)         \
+        \( -rotate 180 +repage +distort Arc '270 180' -rotate 180 -rotate 300                  \)         \
+           -gravity northeast -fill black        -annotate +24+24 'of Life on Land'                       \
+           -gravity northeast -fill white        -annotate +26+26 'of Life on Land'                       \
+           -gravity northeast -fill transparent  -annotate +25+25 'of Life on Land'                       \
+           -gravity south     -fill black        -annotate +4+24 'Across the Millions of Years'           \
+           -gravity south     -fill white        -annotate +6+26 'Across the Millions of Years'           \
+           -gravity south     -fill transparent  -annotate +5+25 'Across the Millions of Years'           \
+           $PWD/z003_stamp-curve.png
