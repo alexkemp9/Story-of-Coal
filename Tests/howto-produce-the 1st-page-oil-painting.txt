@@ -1,0 +1,9 @@
+Steps to produce the "Modern Oil Painting" on the First Page of the Booklet:
+
+1. Images/aus-coal.jpg is imported into Inkscape
+2. Tests/life-on-land.svg is loaded into Inkscape & the text at top-right is copied & placed into the same instance as step#1
+3. Inkscape menu:Filters | Image Paint & Draw | Oil Painting is activated on the JPEG
+4. Text + Oil Painting are sympathetically blended together
+5. The Inkscape file is saved as Images/oil-painting.svg
+6. The combo is exported from Inkscape as a PNG (Images/first-page.png)
+   (this is the file placed on the First Page of the booklet)
