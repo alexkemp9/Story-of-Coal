@@ -26,3 +26,9 @@ Text available under [Creative Commons Attribution-ShareAlike License 4.0](https
 I was disappointed to discover that, whilst page numbers get auto-added, no page-links can be provided.
  - A new text-file [howto-produce-an-alphabetical-index.txt](Tests/howto-produce-an-alphabetical-index.txt) has been added for those new to the above process (like me).
  - A new text-file [howto-produce-the 1st-page-oil-painting.txt](Tests/howto-produce-the-1st-page-oil-painting.txt) has been added for the benefit of the curious.
+
+*Added September 12:*    
+ - An internal link in the pdf was discovered to be wrong.    
+ - All internal images were re-named as part of a comprehensive fix.
+ - The single bad-link, plus a minor page-format issue, were fixed.
+ - Fixes uploaded yesterday.
